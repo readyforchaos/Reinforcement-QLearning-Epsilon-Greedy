@@ -110,7 +110,7 @@ npm start
 ```
 6. Launch your browser and go to the URL mentioned in the above command.
 
-![NPM start command log](images/npm_start.png)
+![NPM start command log](images/npm_start2.png)
 
 ## Files ##
 
