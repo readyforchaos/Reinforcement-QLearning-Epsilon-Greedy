@@ -1,0 +1,14 @@
+body {
+    margin: 0px;
+    background-color: #2e7aaf;
+    overflow-x: hidden;
+    font-family: 'Open Sans', sans-serif;
+}
+
+#info-canvas {
+    position: absolute;
+    top: 0;
+    left: 0;
+    padding: 20px;
+    color: #fff;
+}
