@@ -16,6 +16,7 @@ We chose to build a visual environment, although everything could be done withou
 ### Version history ###
 Version  | Date | Author(s) | Comments
 ---------| ---- | --------- | --------
+1.1  | 2/5/2018 | [Anders Gill](https://twitter.com/TheRealShadyman), [Simon Jäger](https://twitter.com/simonjaegr)  | Added file links
 1.0  | 1/5/2018 | [Anders Gill](https://twitter.com/TheRealShadyman), [Simon Jäger](https://twitter.com/simonjaegr)  | Initial release
 
 ### Disclaimer ###
@@ -118,16 +119,16 @@ Notable files in the project are noted down below. Many of the files are revolvi
 
 File(s)  | Comments
 ----- | ----
-src/assets/*.png        | Assets to render.
-src/block.js            | Render logic for the block (platform).
-src/bomb.js             | Render logic for the block.
-src/chest.js            | Render logic for the chest.
-src/cloud.js            | Render logic for the cloud.
-src/index.html          | HTML layout for render.
-src/main.css            | Styles for HTML layout.
-src/main.js             | Main logic which ties everything together.
-src/rl.js               | Reinforcement logic.
-src/ship.js             | Render logic for the ship.
+[src/assets/*.png](src/assets/)        | Assets to render.
+[src/block.js](src/block.js)            | Render logic for the block (platform).
+[src/bomb.js](src/bomb.js)             | Render logic for the block.
+[src/chest.js](src/chest.js)            | Render logic for the chest.
+[src/cloud.js](src/cloud.js)            | Render logic for the cloud.
+[src/index.html](src/index.html)          | HTML layout for render.
+[src/main.css](src/main.css)            | Styles for HTML layout.
+[src/main.js](src/main.js)             | Main logic which ties everything together.
+[src/rl.js](src/rl.js)               | Reinforcement logic.
+[src/ship.js](src/ship.js)             | Render logic for the ship.
 
 ## Artefacts ###
 
